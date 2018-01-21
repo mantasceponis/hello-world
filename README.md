@@ -1,5 +1,5 @@
 # hello-world
-repository
+repository for Danske Bank courses
 
 
 Testing GitHub
